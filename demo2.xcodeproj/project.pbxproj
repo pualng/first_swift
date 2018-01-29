@@ -51,6 +51,7 @@
 		198701812018183E00A9C575 = {
 			isa = PBXGroup;
 			children = (
+				19C46F17201EBF2D008AF94F /* New Group */,
 				1987018C2018183E00A9C575 /* demo2 */,
 				1987018B2018183E00A9C575 /* Products */,
 			);
@@ -90,6 +91,13 @@
 				198701A32018226000A9C575 /* BookmarksListFavoritesFolder@3x.png */,
 			);
 			path = Images;
+			sourceTree = "<group>";
+		};
+		19C46F17201EBF2D008AF94F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
