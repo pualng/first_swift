@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		192CABDF201870A800B5BEBC /* QueryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 192CABDE201870A800B5BEBC /* QueryTableViewController.swift */; };
 		1987018E2018183E00A9C575 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1987018D2018183E00A9C575 /* AppDelegate.swift */; };
 		198701902018183E00A9C575 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1987018F2018183E00A9C575 /* ViewController.swift */; };
 		198701932018183E00A9C575 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 198701912018183E00A9C575 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		192CABDE201870A800B5BEBC /* QueryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueryTableViewController.swift; sourceTree = "<group>"; };
 		1987018A2018183E00A9C575 /* demo2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1987018D2018183E00A9C575 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1987018F2018183E00A9C575 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				198701962018183E00A9C575 /* LaunchScreen.storyboard */,
 				198701992018183E00A9C575 /* Info.plist */,
 				198701B02018324E00A9C575 /* RecordViewController.swift */,
+				192CABDE201870A800B5BEBC /* QueryTableViewController.swift */,
 			);
 			path = demo2;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			files = (
 				198701B12018324E00A9C575 /* RecordViewController.swift in Sources */,
 				198701902018183E00A9C575 /* ViewController.swift in Sources */,
+				192CABDF201870A800B5BEBC /* QueryTableViewController.swift in Sources */,
 				1987018E2018183E00A9C575 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
